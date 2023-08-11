@@ -16,4 +16,4 @@ Adicionar novos inscritos com dados básicos requeridos
 
 🎯 Autor
 Juliane Araujo Silva Ferrareto
-Agradeço a todos que tiraram minhas dúvidas para a execução desse desafio ❤️
+Agradeço ao Curso em Vídeo na pessoa do professor Gustavo Guanabara por todo conteúdo e experiência. ❤️
